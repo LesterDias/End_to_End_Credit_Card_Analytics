@@ -1,4 +1,4 @@
-###  💳 Credit Card Data Analysis & Reporting
+###  💳 End_to_End_Credit_Card_Analytics
 
 ### 📌 Project Overview
 This project demonstrates **end-to-end financial data handling and automated reporting** using structured CSV datasets.  
